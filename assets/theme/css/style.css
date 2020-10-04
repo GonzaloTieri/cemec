@@ -2,8 +2,9 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+
 section {
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 section,
@@ -96,7 +97,7 @@ section .mbr-background-video-preview {
 
 /*! Base colors */
 .mbr-white {
-  color: #ffffff;
+  color: #fff;
 }
 
 .mbr-black {
@@ -104,7 +105,7 @@ section .mbr-background-video-preview {
 }
 
 .mbr-bg-white {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .mbr-bg-black {
@@ -361,7 +362,7 @@ nav .mbr-section-btn {
   position: fixed;
   text-align: right;
   z-index: 5000;
-  color: #ffffff;
+  color: #fff;
   font-size: 32px;
   transform: rotate(180deg);
   -webkit-transform: rotate(180deg);

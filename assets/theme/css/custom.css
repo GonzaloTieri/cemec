@@ -1,0 +1,26 @@
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.centered {
+  color: #fff;
+  font-size: 1.3rem;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mision {
+  border-top: 4px solid #f8bb18;
+}
+
+.mision .logo {
+  margin-bottom: 50px;
+  max-width: 266px;
+}
+
+#servicios {
+  background-color: #0026AB;
+}
