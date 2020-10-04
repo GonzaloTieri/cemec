@@ -22,5 +22,26 @@
 }
 
 #servicios {
-  background-color: #0026AB;
+  
 }
+
+#servicios h2{
+  color: #f8bb18;
+  font-family: tahomamd;
+}
+
+#servicios h3{
+  color: #f8bb18;
+  font-family: tahoma;
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: inherit;
+}
+
+#servicios li{
+  text-align: left;
+  font-family: tahoma;
+  color: #fff;
+
+}
+
