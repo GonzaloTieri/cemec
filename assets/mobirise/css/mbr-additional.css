@@ -1827,9 +1827,12 @@ body {
 .cid-s7tw5Ks0Bw {
   background-image: url("../../../assets/images/main-image.jpg");
 }
-
 .cid-s7tw5Ks0Bw2 {
   background-image: url("../../../assets/images/bg-misison.jpg");
+}
+
+.cid-s7tw5Ks0Bw3 {
+  background-image: url("../../../assets/images/bg-mission-bottom.jpg");
 }
 .cid-s7tw5Ks0Bw h1 {
   color: #616161;
@@ -1886,8 +1889,8 @@ body {
   text-align: left;
 }
 .cid-s7S6zBsbVi {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  /*padding-top: 60px;
+  padding-bottom: 60px;*/
   background-color: #000;
 }
 .cid-s7S6zBsbVi .media-container-row {
