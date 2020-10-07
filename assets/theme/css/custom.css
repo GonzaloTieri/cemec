@@ -4,21 +4,28 @@
 }
 
 .centered {
+  border: solid 2px;
   color: #fff;
   font-size: 1.3rem;
   left: 50%;
+  padding: 50px;
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 .mision {
   border-top: 4px solid #f8bb18;
 }
 
+.mision h2{
+  color: #fff;
+  text-align: left;
+}
+
 .mision .logo {
-  margin-bottom: 30px;
-  max-width: 400px;
+  max-width: 420px;
 }
 
 #servicios h2 {
@@ -26,16 +33,67 @@
   font-family: tahomamd;
 }
 
-#servicios h3 {
+#servicios h3,
+#contacto h3 {
+  color: #f8bb18;
+  font-family: tahomamd;
+  text-align: left;
+  font-size: 1.3rem;
+  line-height: inherit;
+}
+
+#servicios h4 {
   color: #f8bb18;
   font-family: tahoma;
-  text-align: left;
   font-size: 1.2rem;
   line-height: inherit;
+  text-align: left;
 }
 
 #servicios li {
   color: #fff;
-  text-align: left;
   font-family: tahoma;
+  text-align: left;
+}
+
+#clientes {
+  background: rgb(43,53,134);
+  background: linear-gradient(180deg, rgba(43,53,134,1) 0%, rgba(42,60,152,1) 35%, rgba(99,135,204,1) 100%);
+}
+
+#clientes h2,
+#contacto h2  {
+  color: #f8bb18;
+  font-family: tahomamd;
+}
+
+#clientes .clientes {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+#clientes .clientes p {
+  line-height: normal; 
+}
+
+#contacto {
+  background: url('../../images/bg-contacto.jpg');
+  line-height: normal;
+  font-size: .9em;
+}
+
+#contacto .logo{
+  max-width: 100px;
+}
+
+#contacto p {
+  color: white;
+  font-family: tahoma;
+}
+
+.extra-border {
+  border: solid 2px;
+  padding: 15px;
+  border-radius: 20px;
 }
