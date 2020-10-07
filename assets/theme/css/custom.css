@@ -33,7 +33,7 @@
 #contacto h3 {
   color: #f8bb18;
   font-family: tahomamd;
-  text-align: left;
+  text-align: center;
   font-size: 1.3rem;
   line-height: inherit;
 }
@@ -65,8 +65,8 @@
 
 #clientes .clientes {
   background-color: #fff;
-  padding: 40px;
-  border-radius: 20px;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 #clientes .clientes p {
@@ -81,17 +81,17 @@
 
 #contacto .logo{
   max-width: 100px;
+  margin: 0 auto;
 }
 
 #contacto p {
   color: white;
   font-family: tahoma;
+  text-align: center;
 }
 
 .extra-border {
-  border: solid 2px;
-  padding: 15px;
-  border-radius: 20px;
+  padding: 20px;
 }
 
 
@@ -105,4 +105,24 @@
     top: 50%;
     transform: translate(-50%, -50%);
   }
+  .extra-border {
+    border: solid 2px;
+    padding: 15px;
+    border-radius: 20px;
+  }
+  #contacto .logo{
+    margin: initial;
+  }
+  #clientes .clientes {
+    padding: 40px;
+    border-radius: 20px;
+  }
+  #servicios h3,
+#contacto h3 {
+  text-align: left;
+ 
+}
+#contacto p {
+  text-align: left;
+}
 }
