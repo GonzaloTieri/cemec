@@ -7,7 +7,6 @@
   color: #fff;
   font-size: 1.4rem;
   padding: 50px;
-  position: absolute;
   text-align: center;
 }
 
@@ -87,7 +86,7 @@
 }
 
 #contacto .logo {
-  max-width: 380px;
+  max-width: 210px;
   margin: 0 auto;
 }
 
@@ -128,6 +127,10 @@
     text-align: left;
   }
 
+  #contacto .logo {
+    max-width: 380px;
+    }
+
   .centered {
     border: solid 2px;
   }
@@ -149,5 +152,8 @@
   }
   #contacto p {
     text-align: left;
+  }
+  .cid-s7tw5Ks0Bw3 p{
+    max-width: 75%;
   }
 }
