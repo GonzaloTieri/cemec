@@ -43,7 +43,7 @@ h2 {
 }
 .display-4 {
   font-family: 'tahoma', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
@@ -1838,6 +1838,9 @@ body {
 @media (min-width: 600px) {
   .cid-s7tw5Ks0Bw2 {
     background-image: url("../../../assets/images/bg-misison.jpg");
+  /*  background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(67,67,68,1) 100%);
+background-color: red;*/
   }
 }
 .cid-s7tw5Ks0Bw3 {
@@ -1879,15 +1882,11 @@ body {
   text-align: left;
 }
 .cid-s7vgNRw8p1 {
-  padding-top: 30px;
+  padding-top: 10px;
   padding-bottom: 60px;
   background-color: #fff;
 }
-@media (min-width: 992px) {
-  .cid-s7vgNRw8p1 .mbr-figure {
-    padding-left: 4rem;
-  }
-}
+
 @media (max-width: 992px) {
   .cid-s7vgNRw8p1 .mbr-figure {
     padding-top: 1rem;
@@ -1925,14 +1924,8 @@ body {
 
 }
 
-@media (min-width: 992px) {
-
-  .cid-s7S6zBsbVi .mbr-text {
-    max-width: 75%;
-  }
-}
 .cid-s7jGLII6OX {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #efefef;
 }

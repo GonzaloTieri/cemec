@@ -11,11 +11,11 @@
   text-align: center;
 }
 
-.mision {
+.top-line {
   border-top: 4px solid #f8bb18;
 }
 
-.mision h2{
+.mision h2 {
   color: #fff;
   text-align: left;
 }
@@ -24,7 +24,8 @@
   max-width: 420px;
 }
 
-#servicios h2 {
+#servicios h2,
+#mision h2 {
   color: #f8bb18;
   font-family: tahomamd;
 }
@@ -53,12 +54,18 @@
 }
 
 #clientes {
-  background: rgb(43,53,134);
-  background: linear-gradient(180deg, rgba(43,53,134,1) 0%, rgba(42,60,152,1) 35%, rgba(99,135,204,1) 100%);
+  background: rgb(43, 53, 134);
+  background: linear-gradient(
+    180deg,
+    rgba(43, 53, 134, 1) 0%,
+    rgba(42, 60, 152, 1) 35%,
+    rgba(99, 135, 204, 1) 100%
+  );
+  background: url("../../images/bg-confian.jpg");
 }
 
 #clientes h2,
-#contacto h2  {
+#contacto h2 {
   color: #f8bb18;
   font-family: tahomamd;
 }
@@ -70,17 +77,17 @@
 }
 
 #clientes .clientes p {
-  line-height: normal; 
+  line-height: normal;
 }
 
 #contacto {
-  background: url('../../images/bg-contacto.jpg');
+  background: url("../../images/bg-contacto.jpg");
   line-height: normal;
-  font-size: .9em;
+  font-size: 0.9em;
 }
 
-#contacto .logo{
-  max-width: 100px;
+#contacto .logo {
+  max-width: 450px;
   margin: 0 auto;
 }
 
@@ -94,23 +101,42 @@
   padding: 20px;
 }
 
+.extra-decorator {
+  padding: 10px 0 10px 20px;
+  border-left: 3px #f8bb18 solid;
+}
+
+.soc-item {
+  font-size: 20px;
+  float: right;
+  padding: 10px;
+}
+
+.soc-item a {
+  color: #fff;
+  font-size: 16px;
+}
+
+.soc-item a:hover {
+  color: #f8bb18;
+}
 
 @media screen and (min-width: 600px) {
+  #clientes h2,
+  #contacto h2,
+  #mision h2 {
+    text-align: left;
+  }
+
   .centered {
-    border: solid 2px;  
-    font-size: 1.3rem;
-    left: 50%;
-    padding: 50px;
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    border: solid 2px;
   }
   .extra-border {
     border: solid 2px;
     padding: 15px;
     border-radius: 20px;
   }
-  #contacto .logo{
+  #contacto .logo {
     margin: initial;
   }
   #clientes .clientes {
@@ -118,11 +144,10 @@
     border-radius: 20px;
   }
   #servicios h3,
-#contacto h3 {
-  text-align: left;
- 
-}
-#contacto p {
-  text-align: left;
-}
+  #contacto h3 {
+    text-align: left;
+  }
+  #contacto p {
+    text-align: left;
+  }
 }
