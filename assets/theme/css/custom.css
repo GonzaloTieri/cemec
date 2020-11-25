@@ -23,6 +23,28 @@
   max-width: 420px;
 }
 
+#productos {
+  margin-top: 5em;
+}
+
+#productos h2 {
+  color:#F70C49;
+  font-size: 2rem;
+  text-align: left;
+}
+
+#productos p {
+  text-align: left;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+#productos li {
+  font-size: 1rem;
+  text-align: left;
+  margin-bottom: 1em;
+}
+
 #servicios h2,
 #mision h2 {
   color: #f8bb18;
