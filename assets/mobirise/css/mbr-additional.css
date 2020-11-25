@@ -571,9 +571,11 @@ a.text-black:focus {
 .btn-form:hover {
   cursor: pointer;
 }
-a,
-a:hover {
+a {
   color: #149dcc;
+}
+a:hover {
+  color: #f8bb18;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
