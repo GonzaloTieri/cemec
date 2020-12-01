@@ -45,6 +45,14 @@
   margin-bottom: 1em;
 }
 
+h4 {
+  color: #0081AB;
+  text-align: left;
+  font-weight: bold;
+  font-size: 1em;
+  margin-bottom: 1.6em;
+}
+
 #servicios h2,
 #mision h2 {
   color: #f8bb18;
@@ -142,7 +150,84 @@
   color: #f8bb18;
 }
 
+.secondary-list {
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+}
+
+.secondary-list li{
+  margin-left: 1em;
+  padding: 0;
+  list-style: none;
+  padding-left: 1em;
+}
+
+.secondary-list li:before {
+    content: '';
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    background-image: url(./../../../assets/images/cheque.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right:0.5em;   
+  }
+
+
+  .tertiary-list {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+    padding: 0;
+  }
+  
+  .tertiary-list li{
+    margin-left: 1em;
+    padding: 0;
+    list-style: none;
+    padding-left: 1em;
+  }
+  
+  .tertiary-list li:before {
+      content: '';
+      display: inline-block;
+      height: 1em;
+      width: 1em;
+      background-image: url(./../../../assets/images/cheque.svg);
+      background-size: contain;
+      background-repeat: no-repeat;
+      margin-right:0.5em;   
+    }
+
+    .title-blue {
+      background-color: #0081AB;
+      text-align: center;
+    }
+
+
+
+    p.title-blue {
+      color: white;
+      background-color: #0081AB;
+      padding: 10px;
+    }
+
+
 @media screen and (min-width: 600px) {
+
+  .secondary-list {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+
+  .tertiary-list {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+
   #clientes h2,
   #contacto h2,
   #mision h2 {

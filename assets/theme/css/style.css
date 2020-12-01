@@ -4,7 +4,7 @@
  */
 
 section {
-  background-color: #eee;
+ /* background-color: #eee;*/
 }
 
 section,
@@ -231,6 +231,17 @@ figure[mbr-media-size] {
 .mbr-figure img, .mbr-figure iframe {
   display: block;
   width: 100%;
+}
+
+.mbr-figure p {
+  text-align: center !important;
+  padding: 6px;
+  border: dotted 2px #F70C49;
+  color: #F70C49;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: #fae3e9;
 }
 
 .card {
