@@ -35,7 +35,7 @@
 
 #productos p {
   text-align: left;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 1rem;
 }
 
@@ -43,6 +43,19 @@
   font-size: 1rem;
   text-align: left;
   margin-bottom: 1em;
+}
+
+.blue {
+  color: #0081AB;
+}
+
+h3 {
+  color: #F70C49;
+  text-decoration: underline;
+  text-align: left;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 1.6em;
 }
 
 h4 {
@@ -149,6 +162,36 @@ h4 {
 .soc-item a:hover {
   color: #f8bb18;
 }
+
+
+.main-list {
+  padding: 0;
+}
+
+.main-list ul{
+  padding: 0;
+}
+
+.main-list li{
+  margin-left: 1em;
+  padding: 0;
+  list-style: none;
+  padding-left: 1em;
+  color: #0081AB;
+  font-weight: 700;
+}
+
+.main-list li:before {
+    content: '';
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    background-image: url(./../../../assets/images/cheque.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right:0.5em;   
+  }
+
 
 .secondary-list {
   -webkit-column-count: 1;
