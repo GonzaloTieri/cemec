@@ -45,6 +45,14 @@
   margin-bottom: 1em;
 }
 
+#productos li span{
+  color: #F70C49;
+  display: block;
+  float: inline-start;
+  font-weight: bold;
+  width: 100%;
+}
+
 .blue {
   color: #0081AB;
 }
