@@ -271,6 +271,10 @@ figure[mbr-media-size] {
   align-self: center;
 }
 
+.mbr-figure-max-h {
+  max-width: 280px;
+}
+
 .media-container > div {
   max-width: 100%;
 }
