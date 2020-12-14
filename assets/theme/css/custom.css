@@ -28,9 +28,12 @@
 }
 
 #productos h2 {
-  color:#F70C49;
-  font-size: 2rem;
   text-align: left;
+  text-transform: lowercase;
+}
+
+#productos h2:first-letter {
+  text-transform: uppercase;
 }
 
 #productos p {
