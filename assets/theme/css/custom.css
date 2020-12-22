@@ -4,10 +4,11 @@
 }
 
 .centered {
-  color: #fff;
-  font-size: 1.4rem;
-  padding: 50px;
-  text-align: center;
+	font-size: 1.2rem;
+	padding: 20px;
+	text-align: left;
+	border: solid 1px;
+	color: #fff;
 }
 
 .top-line {
@@ -60,21 +61,24 @@
   color: #0081AB;
 }
 
+h2 {
+  font-size: 2rem;
+  font-family: 'tahomamd';
+}
+
 h3 {
-  color: #F70C49;
-  text-decoration: underline;
-  text-align: left;
-  font-weight: bold;
-  font-size: 1.2em;
-  margin-bottom: 1.6em;
+    text-align: left;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 1.6em;
 }
 
 h4 {
-  color: #0081AB;
-  text-align: left;
-  font-weight: bold;
-  font-size: 1em;
-  margin-bottom: 1.6em;
+color: #0081AB;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 1.2em;
 }
 
 #servicios h2,
@@ -83,7 +87,14 @@ h4 {
   font-family: tahomamd;
 }
 
-#servicios h3,
+#servicios h3 {
+  color: #f8bb18;
+  font-family: tahomamd;
+  text-align: left;
+  font-size: 1.3rem;
+  line-height: inherit;
+}
+
 #contacto h3 {
   color: #f8bb18;
   font-family: tahomamd;
@@ -268,6 +279,21 @@ h4 {
 
 
 @media screen and (min-width: 600px) {
+	
+h2 {
+  font-size: 3rem;
+}
+	
+.centered {
+  color: #fff;
+  font-size: 1.4rem;
+  padding: 50px;
+  text-align: center;
+}
+	
+#servicios h3 {
+  text-align: center;
+}
 
   .secondary-list {
     -webkit-column-count: 3;

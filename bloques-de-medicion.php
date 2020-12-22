@@ -28,7 +28,7 @@
          <?php include("nav.php")?>
     </section>
 
-    <section class="mbr-section pt-5 top-line" id="productos">
+    <section class="mbr-section pt-5" id="productos">
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-12">
@@ -98,7 +98,6 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/smoothscroll/smooth-scroll.js"></script>
     <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-    <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/mbr-popup-btns/mbr-popup-btns.js"></script>
     <script src="assets/dropdown/js/nav-dropdown.js"></script>
     <script src="assets/dropdown/js/navbar-dropdown.js"></script>

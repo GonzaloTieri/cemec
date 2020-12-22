@@ -28,7 +28,7 @@
          <?php include("nav.php")?>
     </section>
 
-    <section class="mbr-section pt-5 top-line" id="productos">
+    <section class="mbr-section pt-5" id="productos">
 
         <div class="container">
             <div class="media-container-row">
@@ -36,14 +36,11 @@
                     <h2 class="pt-4 pb-4 mbr-fonts-style">SECCIONADORES UNIPOLARES Y TRIPOLARES DE MEDIA TENSION PARA
                         INTERIOR</h2>
 
-                    <p class="mbr-section-subtitle mbr-light mbr-fonts-style display-5">Características Técnicas
-                        Principales:</p>
+					  <h4>Características Técnicas Principales:</h4>
                     <div class="row">
                         <div class="col-12 col-md-8">
                             <ul>
-                                <li>Para ser utilizados en celdas, tableros, cámaras, etc..
-                                    Se fabrican para tensiones nominales de 6,6; 13,2 y 33 kV y en corrientes normales
-                                    de 400 y 630 A y especiales, a pedido, desde 800 hasta 3200 A.-</li>
+                                <li>Para ser utilizados en celdas, tableros, cámaras, etc.. Se fabrican para tensiones nominales de 6,6; 13,2 y 33 kV y en corrientes normales de 400 y 630 A y especiales, a pedido, desde 800 hasta 3200 A.-</li>
                                 <li>Pueden ser radiales o deslizantes, según la disponibilidad de espacio y la
                                     configuración de la celda del cliente.</li>
                                 <li>Los unipolares son del tipo SIRU y tripolares del tipo SIRT.</li>
@@ -72,14 +69,13 @@
                             </div>
                             <div class="mbr-figure" style="width: 100%;">
                                 <img src="assets/images/exterior/5b.jpg">
-
                             </div>
                         </div>
 
 						</div>
 
-                  <p class="mbr-section-subtitle mbr-light mbr-fonts-style display-5">COMANDO MANUAL:</p>
-						      <p>a) A palanca extraíble CU.</p>
+                  <h4>Comando Manual:</h4>
+						    <p>a) A palanca extraíble CU.</p>
                             <p>b) A palanca extraíble CUB, más contactos auxiliares con enclave electromecánico de 12,
                                 24, 48 y 110 VCC ó 220 VCA.</p>
 
@@ -89,11 +85,11 @@
                                     está ubicado en el lado opuesto al de las cuchillas principales; debiendo el
                                     cliente aclarar en su pedido la orientación de la PAT</li>
                                 <li>Se fabrican otros tipos de seccionadores, como ser: rotativos, pasamuros,
-                                    conmutadores, etc.-</li>
+                                    conmutadores, etc.</li>
 
                             </ul>
 
-                            <p class="mbr-section-subtitle mbr-light mbr-fonts-style display-5">OPCIONALES:</p>
+                            <h4>Opcionales:</h4>
                             <ul>
                                 <li>KIT de motorización.</li>
                                 <li>KIT para operar remotamente.</li>

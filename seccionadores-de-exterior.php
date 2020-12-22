@@ -28,7 +28,7 @@
          <?php include("nav.php")?>
     </section>
 
-    <section class="mbr-section pt-5 top-line" id="productos">
+    <section class="mbr-section pt-5" id="productos">
 
         <div class="container">
             <div class="media-container-row">
@@ -102,15 +102,13 @@
                         </div>
                     </div>
 
-
-                    <h2 class="pt-4 pb-4 mbr-fonts-style mt-5">SECCIONADORES TRIPOLARES ROTATIVOS 2 COLUMNAS DE MEDIA
+                    <h2 class="pt-4 pb-4 mbr-fonts-style mt-md-5">SECCIONADORES TRIPOLARES ROTATIVOS 2 COLUMNAS DE MEDIA
                         TENSION</h2>
 
                         <h4>Características Técnicas Principales:</h4>
-                    <p> Moderno diseño de seccionador tripolar rotativo, 2 columnas, para montaje horizontal, de uso en
+                    <p>Moderno diseño de seccionador tripolar rotativo, 2 columnas, para montaje horizontal, de uso en
                         el seccionamiento de subestaciones de media tensión reconocido por sus condiciones constructivas
-                        y óptimo funcionamiento.
-                    </p>
+                        y óptimo funcionamiento.</p>
 
 
                     <div class="row">
@@ -141,10 +139,8 @@
 
                         </div>
                         <div class="col-12 col-md-4">
-                          
                             <div class="mbr-figure" style="width: 100%;">
                                 <img src="assets/images/exterior/5b.jpg">
-
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;">
@@ -165,9 +161,6 @@
                 <div class="col-12 col-md-12">
                     <div class="media-container-row">
 
-
-
-
                     </div>
 
                 </div>
@@ -183,7 +176,6 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/smoothscroll/smooth-scroll.js"></script>
     <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-    <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/mbr-popup-btns/mbr-popup-btns.js"></script>
     <script src="assets/dropdown/js/nav-dropdown.js"></script>
     <script src="assets/dropdown/js/navbar-dropdown.js"></script>

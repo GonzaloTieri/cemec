@@ -24,11 +24,10 @@
 
 <body>
     <section class="menu cid-s7yijLto9n" once="menu" id="menu1-1n">
-
          <?php include("nav.php")?>
     </section>
 
-    <section class="mbr-section pt-5 top-line" id="productos">
+    <section class="mbr-section pt-5" id="productos">
 
         <div class="container">
             <div class="media-container-row">
@@ -38,8 +37,7 @@
                     <div class="row">
                         <div class="col-12 col-md-8">
                             <p class="mbr-section-subtitle mbr-light mbr-fonts-style display-5">INTERRUPTORES:</p>
-                            <p>Desde el inicio de nuestras actividades, ante la necesidad de mantenimiento de los interruptores
-                                de corte en aceite de esa época, muchas empresas nos confiaron sus equipos.</p>
+                            <p>Desde el inicio de nuestras actividades, ante la necesidad de mantenimiento de los interruptores de corte en aceite de esa época, muchas empresas nos confiaron sus equipos.</p>
 
                             <p>Si bicación de interruptores requiere de menor atención, los de anterior diseño siguen prestando servicio eficiente mediante un mantenimiento adecuado.</p>
 
@@ -71,8 +69,8 @@
                                 <li>Kits de: contactos - mallas - aisladores</li>
                             </ul>
 
-                            <p class="center">ATENDEMOS TODAS LAS MARCAS</p>
-                            <p class="center">Los equipos mencionados son Marcas Registradas de sus respectivas compañías</p>
+                         <p class="center">ATENDEMOS TODAS LAS MARCAS</p>
+                         <p class="center">Los equipos mencionados son Marcas Registradas de sus respectivas compañías</p>
 
                         </div>
                         <div class="col-12 col-md-4">
@@ -89,11 +87,18 @@
                                 <img src="assets/images/reparaciones/reparaciones1 (3).jpg">
                                 <p>Seccionalizador Mc Graw Edison reparado por Cemec®</p>
                             </div>
-
                         </div>
                     </div>
-
-                    <div class="row">
+					
+					<p>
+ 
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Ver más imágenes
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+     <div class="row">
                         <div class="col-12 col-md-6">
                             <div class="mbr-figure" style="width: 100%;">
                                 <img src="assets/images/reparaciones/reparaciones1 (1).jpg">
@@ -108,6 +113,10 @@
                             </div>
                         </div>
                     </div>
+  </div>
+</div>
+
+               
 
                     <h2 class="pt-4 pb-4 mbr-fonts-style">TRANSFORMADORES:</h2>
 
@@ -164,10 +173,10 @@
                         </div>
                     </div>
 
-                        <div class="row">
+                        <div class="row mt-4">
                             <div class="col-12 col-md-6">
-                              <div class="border pt-4 pl-4 mb-3 h-100">
-                                <h4>REPARACION DE TRANSFORMADORES:</h4>
+                              <div class="border pt-4 pl-4 mt-3 mb-3 h-100">
+                                <h4>Reparación de transformadores:</h4>
                                 <ul>
                                     <li>Potencias de 5 Kva hasta 10 Mva</li>
                                     <li>Tensiones desde 7,6 hasta 33 kV</li>
@@ -182,10 +191,10 @@
                             </div>
                         </div>
                       
-            <div class="row">
+            <div class="row mt-4">
                 <div class="col-12 col-md-6">
-                <div class="border pt-4 pl-4 mb-3">
-                    <h4>MANTENIMIENTO IN-SITU Y EN PLANTA:</h4>
+                <div class="border pt-4 pl-4 mt-3 mb-3 pr-3">
+                    <h4>Mantenimiento IN-SITU y en planta:</h4>
                     <ul>
                         <li>Tratamientos de aceite / siliconas</li>
                         <li>Extracción de muestras</li>
@@ -206,24 +215,20 @@
                     </ul>
                 </div>
               </div>
+				  <div class="col-12 col-md-6">
+                    <div class="mbr-figure" style="width: 100%;">
+                        <img src="assets/images/reparaciones/reparaciones3 (2).jpg">      
+                    </div>
+              
+                </div>
+				 </div>
                 
 
-                <div class="col-12 col-md-6">
-                    <div class="mbr-figure" style="width: 100%;">
-                        <img src="assets/images/reparaciones/reparaciones3 (2).jpg">
-                    
-                    </div>
-                    <div class="mbr-figure" style="width: 100%;">
-                        <img src="assets/images/reparaciones/reparaciones3 (1).jpg">
-                      
-                    </div>
-
-                </div>
-            </div>
         
-            <div class="row">
+            <div class="row mt-4">
+				<div class="col-12 col-md-6">
                 <div class="border pt-4 pl-4 mb-3">
-                    <h3>ENSAYOS SOBRE TRANSFORMADORES:</h3>
+                    <h4>Ensayos sobre transformadores:</h4>
                     <ul class="tertiary-list">
                         <li>Tensión Aplicada</li>
                         <li>Tensión Inducida</li>
@@ -244,10 +249,7 @@
                         <img src="assets/images/reparaciones/reparaciones3 (2).jpg">
                     
                     </div>
-                    <div class="mbr-figure" style="width: 100%;">
-                        <img src="assets/images/reparaciones/reparaciones3 (1).jpg">
-                      
-                    </div>
+      
 
                 </div>
 
@@ -265,7 +267,6 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/smoothscroll/smooth-scroll.js"></script>
     <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-    <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/mbr-popup-btns/mbr-popup-btns.js"></script>
     <script src="assets/dropdown/js/nav-dropdown.js"></script>
     <script src="assets/dropdown/js/navbar-dropdown.js"></script>

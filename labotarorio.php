@@ -95,15 +95,10 @@
 
                     <p class="text-center mb-4 blue"><small>Los equipos mencionados son Marcas Registradas de sus respectivas compañías</small></p>
 
-                    <div class="jumbotron jumbotron-fluid">
-                        <div class="container">
-                            <p class="lead">Tipos de Ensayo Practicables sobre Seccionadores, Transformadores, Bloques
-                                de Medición, Transformadores de Medida, Reconectadores, Seccionalizadores, Bushings y
-                                Cables etc.
-                            </p>
-                        </div>
-                    </div>
-
+                
+                      
+                            <p class="title-blue text-center mt-3 mb-4">Tipos de Ensayo Practicables sobre Seccionadores, Transformadores, Bloques de Medición, Transformadores de Medida, Reconectadores, Seccionalizadores, Bushings y Cables etc.</p>
+                     
 
                     <div class="row">
                         <div class="col-12 col-md-8">

@@ -28,14 +28,14 @@
         <?php include("nav.php")?>
     </section>
 
-    <section class="mbr-section pt-5 top-line" id="productos">
+    <section class="mbr-section pt-5" id="productos">
 
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-12">
                     <h2 class="pt-4 pb-4 mbr-fonts-style">ACCESORIOS, COMANDOS MANUALES Y MOTORIZADOS</h2>
 
-                    <h4>ACCESORIOS PARA EL SECCIONADOR:</h4>
+                    <h4>Accesorios para el seccionador:</h4>
                     <ul>
                         <li>Pantallas Separadoras Antiarco.</li>
                         <li>Bloqueo mecánico para seccionadores con puesta a tierra, que impide cerrar las cuchillas de
@@ -46,7 +46,7 @@
                     <div class="row">
                         <div class="col-12 col-md-8">
 
-                            <h4>COMANDOS MANUALES:</h4>
+                            <h4>Comandos manuales:</h4>
                             <ul>
                                 <li>Estos comandos hacen innecesario el empleo de ninguna otra herramienta especial
                                     (pértiga o escaleras).</li>
@@ -96,7 +96,7 @@
                         </div>
                         <div class="col-12 col-md-8">
 
-                            <h4>COMANDOS MOTORIZADOS:</h4>
+                            <h4>Comandos motorizados:</h4>
                             <ul>
                                 <li>Disponibles para 12 y 24 VCC, con opción de comunicación para integrar a sistemas
                                     SCADA.</li>
@@ -123,7 +123,7 @@
                     <div class="row">
                         <div class="col-12 col-md-8">
 
-                            <h4>ACCIONAMIENTOS MOTORIZADOS</h4>
+                            <h4>Accionamientos motorizados</h4>
                             <ul>
                                 <li>Aplicables tanto a seccionadores <b>Cemec®</b> de nuestra fabricación, como a:</li>
                             </ul>
@@ -146,9 +146,7 @@
                                     estancos, de acero reforzado con perfiles y pintados al horno; o ejecutados
                                     completamente en acero inoxidable, con respaldar de anclaje y mecanismo de desacople
                                     para su accionamiento manual local.</li>
-
                                 <li>Disponibles para 12 y 24 Vcc.</li>
-
                                 <li>Alimentados por baterías reforzadas de electrolito absorbido que mantienen su carga
                                     mediante un cargador flote / fondo de 220 Vca/12-24 Vcc, de alta confiabilidad.</li>
                                 <li>El movimiento es accionado por un motorreductor calculado para completar la
@@ -175,9 +173,7 @@
                         </div>
 
                     </div>
-                    <p class="title-blue text-center">Los seccionadores o programas mencionados son Marcas Registradas
-                        de sus respectivas compañías</p>
-
+                    <p class="title-blue text-center mt-3">Los seccionadores o programas mencionados son Marcas Registradas de sus respectivas compañías</p>
 
                     <div class="row align-items-end">
 
@@ -198,8 +194,7 @@
 
                     <h2 class="pt-4 pb-4 mbr-fonts-style">COMANDOS MOTORIZADOS PARA SECCIONADORES BAJO CARGA</h2>
 
-                    <h4>Características Técnicas Principales:
-                    </h4>
+                    <h4>Características Técnicas Principales:</h4>
                     <p>Los Comandos Motorizados <b>CMSBC</b> fueron desarrollados conjuntamente por Ingeniería y
                         Construcciones Electromecánicas S.R.L. de la ciudad de Rosario y Digicom® de la ciudad de
                         Tucumán, lográndose así un producto integral de excelentes características y prestaciones; de
@@ -269,9 +264,9 @@
 
                     <p>Se puede integrar el equipamiento mediante la provisión del Radio Módem Digicom® RM-19K2, Half
                         Duplex hasta 19200 bps, enlace UHF/VHF, de 4/15 vatios de potencia, 4 canales programables,
-                        puerto RS-232 configurable por software, para DNP 3.0 y Modbus.-</p>
+                        puerto RS-232 configurable por software, para DNP 3.0 y Modbus.</p>
 
-                    <h3 class="mt-4">EL AHORRO EN MULTAS AMORTIZA EL SISTEMA</h3>
+                    <h4 class="mt-4">EL AHORRO EN MULTAS AMORTIZA EL SISTEMA</h4>
 
                     <p class="title-blue text-center">Los seccionadores o programas mencionados son Marcas Registradas
                         de sus respectivas compañías</p>
@@ -292,16 +287,15 @@
                             </div>
                         </section>
 
-                    <h2>RADIO MODEM RM19K2
-                        Enlace de Alta Velocidad VHF / UHF 260 a 400 MHz
-                    </h2>
+                    <h2>RADIO MODEM RM19K2<h2>
+						<h3>Enlace de Alta Velocidad VHF / UHF 260 a 400 MHz</h3>
 
-                    <h3>RM19K2 - Radio Módem Digital de Baja Densidad</h3>
+                    <h4>RM19K2 - Radio Módem Digital de Baja Densidad</h4>
 
                     <div class="row">
                         <div class="col-12 col-md-6">
 
-                            <h3>Memoria Descriptiva:</h3>
+                            <h4>Memoria Descriptiva:</h4>
 
                             <p>El RM19K2 fabricado por Digicom®, está desarrollado para ofrecer variadas soluciones a sus problemas de enlaces de punto a punto, usando un canal de radio y una interfase estándar, siendo apto para las más diversas aplicaciones de telecontrol.</p>
 
@@ -317,7 +311,7 @@
 
                         <div class="col-12 col-md-6">
 
-                            <h3>Sus usos incluyen:</h3>
+                            <h4>Sus usos incluyen:</h4>
 
                             <ul>
                                 <li>Sistemas SCADA.</li>
@@ -327,7 +321,7 @@
                                 <li>Administración y Control de Redes de Agua, Gas, Electricidad, Mineraloductos, Diques, etc.</li>
                             </ul>
 
-                            <h3>Características destacables:</h3>
+                            <h4>Características destacables:</h4>
 
                             <ul>
                                 <li>19200, 9600 y 4800 bps.</li>
@@ -358,7 +352,6 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/smoothscroll/smooth-scroll.js"></script>
     <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-    <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/mbr-popup-btns/mbr-popup-btns.js"></script>
     <script src="assets/dropdown/js/nav-dropdown.js"></script>
     <script src="assets/dropdown/js/navbar-dropdown.js"></script>
