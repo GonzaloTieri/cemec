@@ -56,27 +56,27 @@
                     <div class="media-container-row">
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <p class="mbr-text align-right mb-4 mbr-fonts-style display-4">
+                                <p class="mbr-text align-right mb-4 mbr-fonts-style">
                                     Altamente especializados en la fabricación de aparataje de media tensión y servicios
                                     de reparación de transformadores, somos una opción más que válida, en estos momentos
                                     de renovado protagonismo de nuestra Industria Nacional.
                                 </p>
-                                <p class="mbr-text align-right mb-4 mbr-fonts-style display-4 extra-decorator">
+                                <p class="mbr-text align-right mb-4 mbr-fonts-style extra-decorator">
                                     Nuestro Laboratorio de Ensayos está equipado según los requerimientos de las normas
                                     IRAM para Control de Calidad, podemos realizar ensayos con Tensión Aplicada hasta
                                     150 kV, Tensión Inducida, Pérdidas en Vacío, Pérdidas en Corto Circuito, Medición de
                                     Aislación, Relación de Transformación, Hermeticidad, Calentamiento, etc.
                                 </p>
-                                <p class="mbr-text align-right mb-4 mbr-fonts-style display-4">
+                                <p class="mbr-text align-right mb-4 mbr-fonts-style">
                                     Contamos con dos equipos purificadores de aceite al vacío, libres de PCB, a los que
                                     se les hacen ensayos de control periódicos, para certificar la no-contaminación.
                                 </p>
-                                <p class="mbr-text align-right mb-4 mbr-fonts-style display-4 extra-decorator">
+                                <p class="mbr-text align-right mb-4 mbr-fonts-style extra-decorator">
                                     Con tecnología propia, producto de años de investigación, hemos desarrollado
                                     equipamientos y normas de control que garantizan la durabilidad de los equipos
                                     reconstruidos, reparados y/o los servicios prestados.
                                 </p>
-                                <p class="mbr-text align-right mb-4 mbr-fonts-style display-4">
+                                <p class="mbr-text align-right mb-4 mbr-fonts-style">
                                     Cooperativas y Empresas Distribuidoras de Energía son nuestra vía directa; los
                                     Contratistas de Obra e Instaladores la vía indirecta, atenderlos a todos
                                     eficientemente es nuestra mas anhelada meta.

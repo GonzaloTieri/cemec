@@ -24,7 +24,6 @@
 
 <body>
     <section class="menu cid-s7yijLto9n" once="menu" id="menu1-1n">
-
          <?php include("nav.php")?>
     </section>
 
@@ -62,13 +61,13 @@
 
                         </div>
 
-                        <div class="col-12 col-md-4">
+                        <div class="col-12 col-md-4 mb-3">
                             <div class="mbr-figure" style="width: 100%;">
-                                <img src="assets/images/exterior/4b.jpg">
+                                <img src="assets/images/interior/4.jpg">
 
                             </div>
                             <div class="mbr-figure" style="width: 100%;">
-                                <img src="assets/images/exterior/5b.jpg">
+                                 <img src="assets/images/interior/3.jpg">
                             </div>
                         </div>
 
@@ -80,12 +79,8 @@
                                 24, 48 y 110 VCC ó 220 VCA.</p>
 
                             <ul>
-                                <li>A estos equipos se les puede adicionar el sistema de puesta a tierra, que
-                                    normalmente va montado en la parte inferior del seccionador, su comando
-                                    está ubicado en el lado opuesto al de las cuchillas principales; debiendo el
-                                    cliente aclarar en su pedido la orientación de la PAT</li>
-                                <li>Se fabrican otros tipos de seccionadores, como ser: rotativos, pasamuros,
-                                    conmutadores, etc.</li>
+                                <li>A estos equipos se les puede adicionar el sistema de puesta a tierra, que normalmente va montado en la parte inferior del seccionador, su comando está ubicado en el lado opuesto al de las cuchillas principales; debiendo el cliente aclarar en su pedido la orientación de la PAT</li>
+                                <li>Se fabrican otros tipos de seccionadores, como ser: rotativos, pasamuros, connmutadores, etc.</li>
 
                             </ul>
 
@@ -95,7 +90,21 @@
                                 <li>KIT para operar remotamente.</li>
                             </ul>
                     </div>
+				
                 </div>
+					
+			         <div class="row align-items-end">
+
+                        <div class="col-12 col-md-6 mbr-figure" style="width: 100%;">
+                             <img src="assets/images/interior/1.jpg">
+                        </div>
+
+                        <div class="col-12 col-md-6 mbr-figure" style="width: 100%;">
+                             <img src="assets/images/interior/2.jpg">
+                        </div>
+                    </div>
+			
+			
     </section>
 
      <?php include("footer.php")?>
